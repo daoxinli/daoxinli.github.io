@@ -6,7 +6,7 @@ slug: /research
 
 ### Journal Articles
 
-* <p>Li Yin, R. Malatesha Joshi, **Daoxin Li**, & Seon-Kee Kim. (2020). Decisions about consonant doubling among non-native speakers of English: Graphotactic and phonological influences. *Reading and Writing, 33*, 1839-1858. doi: 10.1007/s11145-020-10017-5</p>
+* <p>Li Yin, R. Malatesha Joshi, __Daoxin Li__, & Seon-Kee Kim. (2020). Decisions about consonant doubling among non-native speakers of English: Graphotactic and phonological influences. _Reading and Writing, 33_, 1839-1858. doi: 10.1007/s11145-020-10017-5</p>
 
 ### Conference Proceedings
 
