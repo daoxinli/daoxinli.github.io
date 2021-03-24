@@ -9,9 +9,9 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: About
       slug: /
-    - name: Work
+    - name: Research
     - name: Blog
 
 footer:
