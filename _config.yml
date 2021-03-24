@@ -11,8 +11,9 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Research
-    - name: Blog
+    - name: Publications
+    - name: Presentations
+    
 
 footer:
   show_powered_by: false
