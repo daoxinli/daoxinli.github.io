@@ -12,7 +12,7 @@ slug: /research
 
 * <p>**Daoxin Li**. (Forthcoming). Controlling overt subjects in Mandarin. In *Proceedings of the 95th annual meeting of the Linguistic Society of America (LSA 2021)*. </p>
 
-<p>**Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (Forthcoming). The distributional learning of recursive structures. In *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)*.</p>
+* <p>**Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (Forthcoming). The distributional learning of recursive structures. In *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)*.</p>
 
 
 
