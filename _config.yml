@@ -12,6 +12,7 @@ header:
     - name: About
       slug: /
     - name: CV
+      url: /assets/li_CV.pdf
     - name: Publications
     - name: Presentations
     - name: Teaching
