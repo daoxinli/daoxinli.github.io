@@ -12,9 +12,9 @@ slug: /publications
 
 ### Conference Proceedings
 
-* **Daoxin Li**. (Forthcoming). Controlling overt subjects in Mandarin. In *Proceedings of the 95th annual meeting of the Linguistic Society of America (LSA 2021)*. 
-
 * **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (Forthcoming). The distributional learning of recursive structures. In *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)*.
+
+* **Daoxin Li**. (2021). Controlling overt subjects in Mandarin. In *Proceedings of the Linguistic Society of America*, 6(1), 303-316. doi: 10.3765/plsa.v6i1.4973 
 
 * **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2020). Acquisition of recursion in child Mandarin. In Megan M. Brown & Alexandra Kohut (Eds.), *Proceedings of the 44th annual Boston University Conference on Language Development (BUCLD 44)* (pp. 294-307). Somerville, MA: Cascadilla Press. 
 
