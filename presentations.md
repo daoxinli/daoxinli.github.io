@@ -8,6 +8,8 @@ slug: /presentations
 
 ### Talks
 
+* **Daoxin Li**. (2021). *Controlling overt subjects in Mandarin*. Talk at the 33rd North American Conference on Chinese Linguistics (NACCL 33), University of Chicago IL, Jun 24 – 25, 2021. (Virtual)
+
 * **Daoxin Li** & Kathryn Schuler. (2021). *Acquiring recursive structures through distributional learning*. Talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY 34), University of Pennsylvania, Philadelphia PA, Mar 4 – 6, 2021. (Virtual)
 
 * **Daoxin Li**. (2021). *Controlling overt subjects in Mandarin*. Talk at the 95th annual meeting of the Linguistic Society of America (LSA 2021), San Francisco CA, Jan 7 – 10, 2021. (Virtual)
@@ -17,6 +19,8 @@ slug: /presentations
 * Li Yin, R. Malatesha Joshi, **Daoxin Li**, & Seon-Kee Kim. (2019). *Graphotactic as well as phonological influences on decisions about consonant doubling among non-native speakers of English*. Talk at the third annual conference of the Association for Reading and Writing in Asia (ARWA 2019), Birla Institute of Technology and Science Pilani, India, Feb 28 – Mar 1, 2019.
 
 ### Posters
+
+* **Daoxin Li** & Kathryn Schuler. (2021). *Distributional learning of recursive structures*. Poster at the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021), University of Vienna, Austria, Jul 26 – 29, 2021. (Virtual)
 
 * **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). *The distributional learning of recursive structures*. Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY 34), University of Pennsylvania, Philadelphia PA, Mar 4 – 6, 2021. (Virtual)
 
