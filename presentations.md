@@ -10,6 +10,8 @@ slug: /presentations
 
 * **Daoxin Li**. (2021). *Controlling overt subjects in Mandarin*. Talk at the 33rd North American Conference on Chinese Linguistics (NACCL 33), University of Chicago IL, Jun 24 – 25, 2021. (Virtual)
 
+* **Daoxin Li** & Kathryn Schuler. (2021). *Acquiring recursive structures through distributional learning*. Talk at "Recursion across Languages: The Intricacies of Babel" Workshop, Bucharest, Romania, Jun 1 – 2, 2021. (Virtual)
+
 * **Daoxin Li** & Kathryn Schuler. (2021). *Acquiring recursive structures through distributional learning*. Talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY 34), University of Pennsylvania, Philadelphia PA, Mar 4 – 6, 2021. (Virtual)
 
 * **Daoxin Li**. (2021). *Controlling overt subjects in Mandarin*. Talk at the 95th annual meeting of the Linguistic Society of America (LSA 2021), San Francisco CA, Jan 7 – 10, 2021. (Virtual)
