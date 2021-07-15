@@ -12,7 +12,7 @@ slug: /publications
 
 ### Conference Proceedings
 
-* **Daoxin Li** & Kathryn Schuler. (Forthcoming). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)*. <a href="https://psyarxiv.com/xhz4m">[Preprint]</a>
+* **Daoxin Li** & Kathryn Schuler. (2021). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)*. (pp. 1437-1443). <a href="https://psyarxiv.com/xhz4m">[Preprint]</a>
 
 * **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). The distributional learning of recursive structures. In Danielle Dionne & Lee-Ann Vidal Covas (Eds.), *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)*. (pp. 471-485). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/45/BUCLD45-36.pdf">[PDF]</a>
 
