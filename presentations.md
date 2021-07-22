@@ -8,7 +8,7 @@ slug: /presentations
 
 ### Talks
 
-* **Daoxin Li**. (2021). *Syntactic boostrapping mental verbs and perception verbs with limited morphosyntactic cues*. Talk at the 46th annual Boston University Conference on Language Development (BUCLD 46), Boston University, Boston MA, Nov 4 – 7, 2021. (Virtual)
+* **Daoxin Li**. (2021). *Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues*. Talk at the 46th annual Boston University Conference on Language Development (BUCLD 46), Boston University, Boston MA, Nov 4 – 7, 2021. (Virtual)
 
 * **Daoxin Li**. (2021). *Controlling overt subjects in Mandarin*. Talk at the 33rd North American Conference on Chinese Linguistics (NACCL 33), University of Chicago IL, Jun 24 – 25, 2021. (Virtual)
 
