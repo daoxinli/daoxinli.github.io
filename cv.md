@@ -4,7 +4,7 @@ title: CV
 slug: /cv
 ---
 
-Please click [here](assets/li_CV.pdf) to view my academic CV (last updated: Jul 2021).
+Please click [here](assets/li_CV.pdf) to view my academic CV (last updated: Aug 2021).
 
 <br />
 <br />
