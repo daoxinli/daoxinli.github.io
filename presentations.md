@@ -30,7 +30,7 @@ slug: /presentations
 
 * **Daoxin Li** & Kathryn Schuler. (2021). *Distributional learning of recursive structures*. Poster at the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021), University of Vienna, Austria, Jul 26 – 29, 2021. (Virtual) [Poster](assets/cogsci21_1545.pdf)
 
-* **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). *The distributional learning of recursive structures*. Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY 34), University of Pennsylvania, Philadelphia PA, Mar 4 – 6, 2021. (Virtual) [Slides](assets/CUNY34_259.pdf)
+* **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). *The distributional learning of recursive structures*. Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY 34), University of Pennsylvania, Philadelphia PA, Mar 4 – 6, 2021. (Virtual) [Slides](assets/cuny34_259.pdf)
 
 * **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2019). *Acquisition of recursion in child Mandarin*. Poster at the 44th annual Boston University Conference on Language Development (BUCLD 44), Boston University, Boston MA, Nov 7 – 10, 2019. (Accepted as an alternate for talk)
 
