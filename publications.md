@@ -12,13 +12,13 @@ slug: /publications
 
 ### Conference Proceedings
 
-* **Daoxin Li** & Kathryn Schuler. (2021). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)*. (pp. 1437-1443). <a href="https://escholarship.org/content/qt45221021/qt45221021.pdf?t=qwi33l&v=lg">[PDF]</a>
+* **Daoxin Li** & Kathryn Schuler. (2021). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)*. (pp. 1437-1443). <a href="https://escholarship.org/content/qt45221021/qt45221021.pdf?t=qwi33l&v=lg">PDF</a>
 
-* **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). The distributional learning of recursive structures. In Danielle Dionne & Lee-Ann Vidal Covas (Eds.), *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)*. (pp. 471-485). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/45/BUCLD45-36.pdf">[PDF]</a>
+* **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). The distributional learning of recursive structures. In Danielle Dionne & Lee-Ann Vidal Covas (Eds.), *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)*. (pp. 471-485). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/45/BUCLD45-36.pdf">PDF</a>
 
 * **Daoxin Li**. (2021). Controlling overt subjects in Mandarin. In *Proceedings of the Linguistic Society of America*, 6(1), 303-316. <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4973">doi: 10.3765/plsa.v6i1.4973</a> 
 
-* **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2020). Acquisition of recursion in child Mandarin. In Megan M. Brown & Alexandra Kohut (Eds.), *Proceedings of the 44th annual Boston University Conference on Language Development (BUCLD 44)* (pp. 294-307). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/44/BUCLD44-24.pdf">[PDF]</a>
+* **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2020). Acquisition of recursion in child Mandarin. In Megan M. Brown & Alexandra Kohut (Eds.), *Proceedings of the 44th annual Boston University Conference on Language Development (BUCLD 44)* (pp. 294-307). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/44/BUCLD44-24.pdf">PDF</a>
 
 
 
