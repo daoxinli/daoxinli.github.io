@@ -26,7 +26,7 @@ slug: /presentations
 
 ### Posters
 
-* **Daoxin Li**. (2022). *Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues*. Poster at the 96th annual meeting of the Linguistic Society of America (LSA 2022), Washington DC, Jan 6 – 9, 2022.
+* **Daoxin Li**. (2022). *Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues*. Poster at the 96th annual meeting of the Linguistic Society of America (LSA 2022), Washington DC, Jan 6 – 9, 2022. [Poster](assets/LSA96_poster.pdf)
 
 * **Daoxin Li** & Kathryn Schuler. (2021). *Distributional learning of recursive structures*. Poster at the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021), University of Vienna, Austria, Jul 26 – 29, 2021. (Virtual) [Poster](assets/cogsci21_1545.pdf)
 
