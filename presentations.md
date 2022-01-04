@@ -8,7 +8,7 @@ slug: /presentations
 
 ### Talks
 
-* **Daoxin Li** & Kathryn Schuler. (2022). *Acquiring recursive structures through distributional learning*. Talk at the 96th annual meeting of the Linguistic Society of America (LSA 2022), Washington DC, Jan 6 – 9, 2022.
+* **Daoxin Li** & Kathryn Schuler. (2022). *Acquiring recursive structures through distributional learning*. Talk at the 96th annual meeting of the Linguistic Society of America (LSA 2022), Washington DC, Jan 6 – 9, 2022. [Slides](assets/LSA96_talk.pdf)
 
 * **Daoxin Li**. (2021). *Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues*. Talk at the 46th annual Boston University Conference on Language Development (BUCLD 46), Boston University, Boston MA, Nov 4 – 7, 2021. (Virtual) [Slides](assets/bucld46_237.pdf)
 
