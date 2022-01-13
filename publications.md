@@ -22,7 +22,7 @@ slug: /publications
 
 ### Manuscripts
 
-* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki, & Chris Callison-Burch. (Submitted). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. <a href="https://arxiv.org/abs/2112.08326">Preprint</a> <a href="https://github.com/veronica320/Recursive-NPs">Repo</a>
+* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (Submitted). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. <a href="https://arxiv.org/abs/2112.08326">Preprint</a> <a href="https://github.com/veronica320/Recursive-NPs">Repo</a>
 
 * **Daoxin Li** & Kathryn Schuler. (Submitted). Acquiring recursive structures through distributional learning. 
 
