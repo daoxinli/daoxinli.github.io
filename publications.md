@@ -20,7 +20,11 @@ slug: /publications
 
 * **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2020). Acquisition of recursion in child Mandarin. In Megan M. Brown & Alexandra Kohut (Eds.), *Proceedings of the 44th annual Boston University Conference on Language Development (BUCLD 44)* (pp. 294-307). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/44/BUCLD44-24.pdf">PDF</a>
 
+### Manuscripts
 
+* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki, & Chris Callison-Burch. (Submitted). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. <a href="https://arxiv.org/abs/2112.08326">Preprint</a> <a href="https://github.com/veronica320/Recursive-NPs">Repo</a>
+
+* **Daoxin Li** & Kathryn Schuler. (Submitted). Acquiring recursive structures through distributional learning. 
 
 <br />
 <br />
