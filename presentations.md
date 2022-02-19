@@ -8,7 +8,7 @@ slug: /presentations
 
 ### Talks
 
-* **Daoxin Li**. (2022). *Passives, impersonals, and Voice in Sakha.* Talk at the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7), University of Connecticut, Storrs CT, Feb 18 – 19, 2022. (Virtual)
+* **Daoxin Li**. (2022). *Passives, impersonals, and Voice in Sakha.* Talk at the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7), University of Connecticut, Storrs CT, Feb 18 – 19, 2022. (Virtual) [Slides](assets/Tu+7_talk.pdf)
 
 * **Daoxin Li** & Kathryn Schuler. (2022). *Acquiring recursive structures through distributional learning*. Talk at the 96th annual meeting of the Linguistic Society of America (LSA 2022), Washington DC, Jan 6 – 9, 2022. [Slides](assets/LSA96_talk.pdf)
 
