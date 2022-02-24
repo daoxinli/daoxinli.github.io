@@ -8,7 +8,7 @@ slug: /presentations
 
 ### Talks
 
-* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web*. Talk at the XXII Biennial Internatinal Congress of Infant Studies (ICIS 2022), Ottawa, Canada, Jul 7 – 10, 2022.
+* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web*. Talk at the XXII Biennial International Congress of Infant Studies (ICIS 2022), Ottawa, Canada, Jul 7 – 10, 2022.
 
 * **Daoxin Li**. (2022). *Passives, impersonals, and Voice in Sakha.* Talk at the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7), University of Connecticut, Storrs CT, Feb 18 – 19, 2022. (Virtual) [Slides](assets/Tu+7_talk.pdf)
 
