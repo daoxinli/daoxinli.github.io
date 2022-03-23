@@ -32,7 +32,7 @@ slug: /presentations
 
 ### Posters
 
-* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web*. Poster at the 35th Annual Conference on Human Sentence Processing (HSP 35), University of California Santa Cruz, Santa Cruz CA, Mar 24 – 26, 2022.
+* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web*. Poster at the 35th Annual Conference on Human Sentence Processing (HSP 35), University of California Santa Cruz, Santa Cruz CA, Mar 24 – 26, 2022. [Poster](assets/hsp35_poster.pdf)
 
 * **Daoxin Li**. (2022). *Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues*. Poster at the 96th annual meeting of the Linguistic Society of America (LSA 2022), Washington DC, Jan 6 – 9, 2022. [Poster](assets/LSA96_poster.pdf)
 
