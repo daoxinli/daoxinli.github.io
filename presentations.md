@@ -8,6 +8,8 @@ slug: /presentations
 
 ### Talks
 
+* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Talk at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022), Seattle WA, Jul 10 - 15.
+
 * **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web*. Talk at the XXII Biennial International Congress of Infant Studies (ICIS 2022), Ottawa, Canada, Jul 7 – 10, 2022.
 
 * **Daoxin Li**. (2022). *Passives, impersonals, and Voice in Sakha*. Talk at the 58th annual meeting of the Chicago Linguistic Society (CLS 58), University of Chicago, Chicago IL, Apr 22 – 24, 2022.
@@ -31,6 +33,8 @@ slug: /presentations
 * Li Yin, R. Malatesha Joshi, **Daoxin Li**, & Seon-Kee Kim. (2019). *Graphotactic as well as phonological influences on decisions about consonant doubling among non-native speakers of English*. Talk at the third annual conference of the Association for Reading and Writing in Asia (ARWA 2019), Birla Institute of Technology and Science Pilani, India, Feb 28 – Mar 1, 2019.
 
 ### Posters
+
+* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Poster at the 9th annual Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2022), Temple University, Philadelphia PA, Apr 30, 2022.
 
 * **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web*. Poster at the 35th Annual Conference on Human Sentence Processing (HSP 35), University of California Santa Cruz, Santa Cruz CA, Mar 24 – 26, 2022. [Poster](assets/hsp35_poster.pdf)
 
