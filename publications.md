@@ -14,9 +14,11 @@ slug: /publications
 
 * Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (Forthcoming). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. In *Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)*. <a href="https://arxiv.org/abs/2112.08326">Preprint</a> <a href="https://github.com/veronica320/Recursive-NPs">Repo</a>
 
+* **Daoxin Li**. (2022). Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues. In Ying Gong & Felix Kpogo (Eds.), *Proceedings of the 46th annual Boston University Conference on Language Development (BUCLD 46)* (pp. 428-441). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/46/BUCLD46-33.pdf">PDF</a>
+
 * **Daoxin Li** & Kathryn Schuler. (2021). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)*. (pp. 1437-1443). <a href="https://escholarship.org/content/qt45221021/qt45221021.pdf?t=qwi33l&v=lg">PDF</a>
 
-* **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). The distributional learning of recursive structures. In Danielle Dionne & Lee-Ann Vidal Covas (Eds.), *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)*. (pp. 471-485). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/45/BUCLD45-36.pdf">PDF</a>
+* **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). The distributional learning of recursive structures. In Danielle Dionne & Lee-Ann Vidal Covas (Eds.), *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)* (pp. 471-485). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/45/BUCLD45-36.pdf">PDF</a>
 
 * **Daoxin Li**. (2021). Controlling overt subjects in Mandarin. In *Proceedings of the Linguistic Society of America*, 6(1), 303-316. <a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4973">doi: 10.3765/plsa.v6i1.4973</a> 
 
