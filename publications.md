@@ -12,7 +12,7 @@ slug: /publications
 
 ### Conference Proceedings
 
-* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (Forthcoming). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. In *Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)* (pp. 5286–5302). Seattle, WA: Association for Computational Linguistics. <a href="https://aclanthology.org/2022.naacl-main.388/">PDF</a> <a href="https://github.com/veronica320/Recursive-NPs">Repo</a>
+* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. In *Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)* (pp. 5286–5302). Seattle, WA: Association for Computational Linguistics. <a href="https://aclanthology.org/2022.naacl-main.388/">PDF</a> <a href="https://github.com/veronica320/Recursive-NPs">Repo</a>
 
 * **Daoxin Li**. (2022). Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues. In Ying Gong & Felix Kpogo (Eds.), *Proceedings of the 46th annual Boston University Conference on Language Development (BUCLD 46)* (pp. 428-441). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/46/BUCLD46-33.pdf">PDF</a>
 
