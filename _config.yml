@@ -24,14 +24,14 @@ footer:
       value: daoxinli@sas.upenn.edu
       link: mailto:daoxinli@sas.upenn.edu
   follow:
-    - name: LinkedIn
-      link: http://linkedin.com/in/daoxin-li-957258128
-    - name: GitHub
-      link: http://github.com/daoxinli
-    - name: Google Scholar
+    - name: GoogleScholar
       link: https://scholar.google.com/citations?user=4eKbdUEAAAAJ
     - name: ResearchGate
       link: https://www.researchgate.net/profile/Daoxin-Li
+    - name: GitHub
+      link: http://github.com/daoxinli
+    - name: LinkedIn
+      link: http://linkedin.com/in/daoxin-li-957258128
  
 
 # Build settings
