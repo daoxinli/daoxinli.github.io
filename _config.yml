@@ -18,16 +18,16 @@ header:
     
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: daoxinli@sas.upenn.edu
       link: mailto:daoxinli@sas.upenn.edu
   follow:
-    - name: ResearchGate
-      link: https://www.researchgate.net/profile/Daoxin-Li
     - name: Google Scholar
       link: https://scholar.google.com/citations?user=4eKbdUEAAAAJ
+    - name: ResearchGate
+      link: https://www.researchgate.net/profile/Daoxin-Li
     - name: GitHub
       link: http://github.com/daoxinli
     - name: LinkedIn
