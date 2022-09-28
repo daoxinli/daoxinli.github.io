@@ -36,6 +36,8 @@ slug: /presentations
 
 ### Posters
 
+* **Daoxin Li** & John Trueswell. (2023). *Cross-situational learning homophones and general categories: The role of the referential domain.* Poster at the 97th annual meeting of the Linguistic Society of America (LSA 2023), Denver CO, Jan 5 – 8, 2023.
+
 * Kathryn Schuler & **Daoxin Li**. (2022). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 47th annual Boston University Conference on Language Development (BUCLD 47), Boston University, Boston MA, Nov 3 – 6, 2022.
 
 * Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Poster at the 9th annual Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2022), Temple University, Philadelphia PA, Apr 30, 2022.
