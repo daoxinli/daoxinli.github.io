@@ -26,7 +26,9 @@ slug: /publications
 
 ### Manuscripts
 
-* **Daoxin Li** & Kathryn Schuler. (In revision). Acquiring recursive structures through distributional learning. 
+* **Daoxin Li** & Kathryn Schuler. (Revision submitted). Acquiring recursive structures through distributional learning. *Language Acquisition.*
+
+* **Daoxin Li**. (Submitted). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
 
 <br />
 <br />
