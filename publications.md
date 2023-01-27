@@ -8,7 +8,7 @@ slug: /publications
 
 ### Peer-reviewed Articles
 
-* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. In *Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)* (pp. 5286–5302). Seattle, WA: Association for Computational Linguistics. <a href="https://aclanthology.org/2022.naacl-main.388/">PDF</a> <a href="https://github.com/veronica320/Recursive-NPs">Repo</a>
+* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. In *Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)* (pp. 5286–5302). Seattle, WA: Association for Computational Linguistics. <a href="https://aclanthology.org/2022.naacl-main.388/">PDF</a> <a href="https://github.com/veronica320/Recursive-NPs">Data&code</a>
 
 * Li Yin, R. Malatesha Joshi, **Daoxin Li**, & Seon-Kee Kim. (2020). Decisions about consonant doubling among non-native speakers of English: Graphotactic and phonological influences. _Reading and Writing, 33_, 1839-1858. <a href="https://link.springer.com/article/10.1007%2Fs11145-020-10017-5">doi: 10.1007/s11145-020-10017-5</a>
 
