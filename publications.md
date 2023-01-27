@@ -14,6 +14,12 @@ slug: /publications
 
 ### Conference Proceedings
 
+* **Daoxin Li** & Kathryn Schuler. (Forthcoming). Distributional learning of recursive structures: The role of structural representation. In *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press.
+
+* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (Forthcoming). Adapting infant looking time paradigms for the web. In *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press.
+
+* **Daoxin Li**. (Forthcoming). Passives, impersonals, and Voice in Sakha. In *Proceedings of the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*.
+
 * **Daoxin Li**. (2022). Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues. In Ying Gong & Felix Kpogo (Eds.), *Proceedings of the 46th annual Boston University Conference on Language Development (BUCLD 46)* (pp. 428-441). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/46/BUCLD46-33.pdf">PDF</a>
 
 * **Daoxin Li** & Kathryn Schuler. (2021). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)*. (pp. 1437-1443). <a href="https://escholarship.org/content/qt45221021/qt45221021.pdf?t=qwi33l&v=lg">PDF</a>
@@ -26,9 +32,13 @@ slug: /publications
 
 ### Manuscripts
 
-* **Daoxin Li** & Kathryn Schuler. (Revision submitted). Acquiring recursive structures through distributional learning. *Language Acquisition.*
+* **Daoxin Li** & Kathryn Schuler. (Under revision). Acquiring recursive structures through distributional learning. *Language Acquisition.*
 
 * **Daoxin Li**. (Submitted). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
+
+* **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
+
+* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (In prep). Adapting infant looking time paradigms for the web.
 
 <br />
 <br />
