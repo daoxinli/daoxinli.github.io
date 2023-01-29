@@ -8,7 +8,7 @@ slug: /presentations
 
 ### Talks
 
-* Shengqi Zhong, **Daoxin Li**, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web.* Talk at the 47th annual Boston University Conference on Language Development (BUCLD47), Boston University, Boston MA, Nov 3 – 6, 2022.
+* Shengqi Zhong, **Daoxin Li**, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web.* Talk at the 47th annual Boston University Conference on Language Development (BUCLD 47), Boston University, Boston MA, Nov 3 – 6, 2022.
 
 * Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Talk at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022), Seattle WA, Jul 10 - 15, 2022.
 
