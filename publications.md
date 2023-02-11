@@ -18,7 +18,7 @@ slug: /publications
 
 * **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (Forthcoming). Adapting infant looking time paradigms for the web. In *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press.
 
-* **Daoxin Li**. (2023). Passives, impersonals, and Voice in Sakha. In Si Kai Lee, Sarah Asinari and Sabine Lazakovits (Eds.), *Proceedings of the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*, (pp. 88-103). <a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5308">doi: 10.3765/ptu.v7i1.5308</a>
+* **Daoxin Li**. (2023). Passives, impersonals, and Voice in Sakha. In Si Kai Lee, Sarah Asinari & Sabine Lazakovits (Eds.), *Proceedings of the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*, (pp. 88-103). <a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5308">doi: 10.3765/ptu.v7i1.5308</a>
 
 * **Daoxin Li**. (2022). Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues. In Ying Gong & Felix Kpogo (Eds.), *Proceedings of the 46th annual Boston University Conference on Language Development (BUCLD 46)* (pp. 428-441). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/46/BUCLD46-33.pdf">PDF</a>
 
