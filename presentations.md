@@ -8,7 +8,7 @@ slug: /presentations
 
 ### Talks
 
-* Shengqi Zhong, **Daoxin Li**, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web.* Talk at the 47th annual Boston University Conference on Language Development (BUCLD 47), Boston University, Boston MA, Nov 3 – 6, 2022.
+* Shengqi Zhong, **Daoxin Li**, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web.* Talk at the 47th annual Boston University Conference on Language Development (BUCLD 47), Boston University, Boston MA, Nov 3 – 6, 2022. [Slides](assets/BUCLD47-152.pdf)
 
 * Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Talk at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022), Seattle WA, Jul 10 - 15, 2022.
 
@@ -38,9 +38,9 @@ slug: /presentations
 
 * **Daoxin Li** & Kathryn Schuler. (2023). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 36th Annual Conference on Human Sentence Processing (HSP 36), University of Pittsburgh, Pittsburgh PA, Mar 9 – 11, 2023.
 
-* **Daoxin Li** & John Trueswell. (2023). *Cross-situational learning homophones and general categories: The role of the referential domain.* Poster at the 97th annual meeting of the Linguistic Society of America (LSA 2023), Denver CO, Jan 5 – 8, 2023.
+* **Daoxin Li** & John Trueswell. (2023). *Cross-situational learning homophones and general categories: The role of the referential domain.* Poster at the 97th annual meeting of the Linguistic Society of America (LSA 2023), Denver CO, Jan 5 – 8, 2023. [Poster](assets/LSA97_poster.pdf)
 
-* Kathryn Schuler & **Daoxin Li**. (2022). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 47th annual Boston University Conference on Language Development (BUCLD 47), Boston University, Boston MA, Nov 3 – 6, 2022.
+* Kathryn Schuler & **Daoxin Li**. (2022). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 47th annual Boston University Conference on Language Development (BUCLD 47), Boston University, Boston MA, Nov 3 – 6, 2022. [Poster](assets/BUCLD47_389.pdf)
 
 * Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Poster at the 9th annual Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2022), Temple University, Philadelphia PA, Apr 30, 2022.
 
