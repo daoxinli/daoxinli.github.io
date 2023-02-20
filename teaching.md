@@ -6,13 +6,13 @@ slug: /teaching
 
 ## Teaching
 
-**Spring 2023**: Teaching Assistant for *LING0001 Introduction to Linguistics*, Penn (Instructor: <a href="https://www.laceywade.com/">Lacey Wade</a>)
+**Spring 2023**: Teaching Assistant for *LING0001 Introduction to Linguistics*, Penn (Instructor: Lacey Wade)
 
-**Fall 2021**: Teaching Assistant for *LING300 Tutorial in Linguistics*, Penn (Instructor: <a href="https://www.ling.upenn.edu/~jlegate/">Julie Anne Legate</a>)
+**Fall 2021**: Teaching Assistant for *LING300 Tutorial in Linguistics*, Penn (Instructor: Julie Anne Legate)
 
-**Spring 2021**: Teaching Assistant for *LING001 Introduction to Linguistics*, Penn (Instructor: <a href="https://www.martinsalzmann.com">Martin Salzmann</a>)
+**Spring 2021**: Teaching Assistant for *LING001 Introduction to Linguistics*, Penn (Instructor: Martin Salzmann)
 
-**Fall 2020**: Teaching Assistant for *LING270 Language Acquisition*, Penn (Instructor: <a href="https://www.ling.upenn.edu/~ycharles/">Charles Yang</a>)
+**Fall 2020**: Teaching Assistant for *LING270 Language Acquisition*, Penn (Instructor: Charles Yang)
 
 
 <br />
