@@ -38,7 +38,7 @@ slug: /publications
 
 * **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
 
-* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (In prep). Adapting infant looking time paradigms for the web.
+* Kathryn Schuler, **Daoxin Li**, & Shengqi Zhong. (In prep). Adapting the looking time preference procedure for the web.
 
 <br />
 <br />
