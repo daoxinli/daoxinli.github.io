@@ -8,7 +8,7 @@ slug: /publications
 
 ### Peer-reviewed Articles
 
-* **Daoxin Li** & Kathryn Schuler. (Accepted). Acquiring recursive structures through distributional learning. *Language Acquisition.* <a href="https://psyarxiv.com/u5jpb">Preprint</a>
+* **Daoxin Li** & Kathryn Schuler. (To appear). Acquiring recursive structures through distributional learning. *Language Acquisition.* <a href="https://psyarxiv.com/u5jpb">Preprint</a>
 
 * Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). Is *"my favorite new movie" my favorite movie*? Probing the understanding of recursive noun phrases. In *Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022)* (pp. 5286–5302). Seattle, WA: Association for Computational Linguistics. <a href="https://aclanthology.org/2022.naacl-main.388/">doi: 10.18653/v1/2022.naacl-main.388</a> <a href="https://github.com/veronica320/Recursive-NPs">Data&code</a>
 
@@ -34,7 +34,7 @@ slug: /publications
 
 ### Manuscripts
 
-* **Daoxin Li**. (Submitted). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
+* **Daoxin Li**. (Under review). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
 
 * **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
 
