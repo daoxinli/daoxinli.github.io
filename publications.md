@@ -16,9 +16,9 @@ slug: /publications
 
 ### Conference Proceedings
 
-* **Daoxin Li** & Kathryn Schuler. (Forthcoming). Distributional learning of recursive structures: The role of structural representation. In *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press.
+* **Daoxin Li** & Kathryn Schuler. (To appear). Distributional learning of recursive structures: The role of structural representation. In *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press.
 
-* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (Forthcoming). Adapting infant looking time paradigms for the web. In *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press.
+* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (To appear). Adapting infant looking time paradigms for the web. In *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press.
 
 * **Daoxin Li**. (2023). Passives, impersonals, and Voice in Sakha. In Si Kai Lee, Sarah Asinari & Sabine Lazakovits (Eds.), *Proceedings of the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*, (pp. 88-103). <a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5308">doi: 10.3765/ptu.v7i1.5308</a>
 
