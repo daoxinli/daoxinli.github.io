@@ -36,6 +36,8 @@ slug: /presentations
 
 ### Posters
 
+* **Daoxin Li** & Kathryn Schuler. (2023). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 45th Annual Meeting of the Cogntive Science Society (CogSci 2023), Sydney, Australia, Jul 26 - 29, 2023.
+
 * **Daoxin Li** & Kathryn Schuler. (2023). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 36th Annual Conference on Human Sentence Processing (HSP 36), University of Pittsburgh, Pittsburgh PA, Mar 9 – 11, 2023.
 
 * **Daoxin Li** & John Trueswell. (2023). *Cross-situational learning homophones and general categories: The role of the referential domain.* Poster at the 97th annual meeting of the Linguistic Society of America (LSA 2023), Denver CO, Jan 5 – 8, 2023. [Poster](assets/LSA97_poster.pdf)
