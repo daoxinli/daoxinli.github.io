@@ -6,7 +6,7 @@ slug: /teaching
 
 ## Teaching
 
-### Teachinng experiences
+### Teaching experiences
 
 * **Spring 2023**: Teaching Assistant for *LING0001 Introduction to Linguistics*, Penn (Instructor: Lacey Wade)
 
