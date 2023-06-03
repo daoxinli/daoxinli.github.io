@@ -34,7 +34,7 @@ slug: /publications
 
 ### Manuscripts
 
-* **Daoxin Li**. (Under review). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
+* **Daoxin Li**. (In revision). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
 
 * **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
 
