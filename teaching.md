@@ -8,6 +8,8 @@ slug: /teaching
 
 ### Teaching experiences
 
+* **Fall 2023**: Teaching Assistant for *LING2700 Language Acquisition*, Penn
+
 * **Spring 2023**: Teaching Assistant for *LING0001 Introduction to Linguistics*, Penn (Instructor: Lacey Wade)
 
 * **Fall 2021**: Teaching Assistant for *LING300 Tutorial in Linguistics*, Penn (Instructor: Julie Anne Legate)
