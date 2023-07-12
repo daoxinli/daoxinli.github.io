@@ -10,7 +10,7 @@ slug: /presentations
 
 * Shengqi Zhong, **Daoxin Li**, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web.* Talk at the 47th annual Boston University Conference on Language Development (BUCLD 47), Boston University, Boston MA, Nov 3 – 6, 2022. [Slides](assets/BUCLD47-152.pdf)
 
-* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Talk at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022), Seattle WA, Jul 10 - 15, 2022.
+* Qing Lyu, Hua Zheng, **Daoxin Li**, Li Zhang, Marianna Apidianaki, & Chris Callison-Burch. (2022). *Is “my favorite new movie” my favorite movie? Probing the understanding of recursive noun phrases.* Talk at the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2022), Seattle WA, Jul 10 - 15, 2022.
 
 * **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2022). *Adapting infant looking time paradigms for the web*. Talk at the XXII Biennial International Congress of Infant Studies (ICIS 2022), Ottawa, Canada, Jul 7 – 10, 2022.
 
@@ -56,8 +56,7 @@ slug: /presentations
 
 * **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2019). *Acquisition of recursion in child Mandarin*. Poster at the 44th annual Boston University Conference on Language Development (BUCLD 44), Boston University, Boston MA, Nov 7 – 10, 2019. (Accepted as an alternate for talk)
 
-* **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, & Emma Merritt. (2019). *Acquisition of recursion in child Mandarin*. Poster at the 14th Generative Approaches to Language Acquisition conference (GALA 14), University of Milano-Bicocca, Italy, Sep 12 – 14, 2019.
-
+* **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, & Emma Merritt. (2019). *Acquisition of recursion in child Mandarin*. Poster at the the 14th bi-annual conference on Generative Approaches to Language Acquisition (GALA 14), University of Milano-Bicocca, Italy, Sep 12 – 14, 2019.
 
 <br />
 <br />
