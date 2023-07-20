@@ -36,6 +36,8 @@ slug: /presentations
 
 ### Posters
 
+* **Daoxin Li**. (2023). *Modelling the distributional learning of verb argument structure.* Poster at the 48th annual Boston University Conference on Language Development (BUCLD 48), Boston University, Boston MA, Nov 2 – 5, 2023. 
+
 * **Daoxin Li** & Kathryn Schuler. (2023). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 45th Annual Meeting of the Cogntive Science Society (CogSci 2023), Sydney, Australia, Jul 26 - 29, 2023.
 
 * **Daoxin Li** & Kathryn Schuler. (2023). *Distributional learning of recursive structures: The role of the structural representation.* Poster at the 36th Annual Conference on Human Sentence Processing (HSP 36), University of Pittsburgh, Pittsburgh PA, Mar 9 – 11, 2023.
