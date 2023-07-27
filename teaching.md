@@ -14,6 +14,8 @@ slug: /teaching
 
 * **Fall 2021**: Teaching Assistant for *LING300 Tutorial in Linguistics*, Penn (Instructor: Julie Anne Legate)
 
+* **Fall 2021**: Guest Lecturer for *LING300 Tutorial in Linguistics*, Penn (Instructor: Julie Anne Legate)
+
 * **Spring 2021**: Teaching Assistant for *LING001 Introduction to Linguistics*, Penn (Instructor: Martin Salzmann)
 
 * **Fall 2020**: Teaching Assistant for *LING270 Language Acquisition*, Penn (Instructor: Charles Yang)
