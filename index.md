@@ -14,4 +14,6 @@ profile_picture:
   Before coming to Penn, I earned my BA in English Language at <a href="https://www.tsinghua.edu.cn/en/index.htm">Tsinghua University</a>.
 </p>
 
+**I'm on the academic job market 2023-2024!**
+
 **Address**: Department of Linguistics, University of Pennsylvania, 3401-C Walnut Street, Suite 300, C Wing, Philadelphia, PA 19104-6228, USA
