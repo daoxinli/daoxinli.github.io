@@ -35,9 +35,9 @@ slug: /publications
 
 ### Manuscripts
 
-* **Daoxin Li**. (In revision). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
+* **Daoxin Li**. (Revisions submitted). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
 
-* **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
+* **Daoxin Li** & Charles Yang. (To be submitted). Productivity and the distributional learning of recursive structures.
 
 * Kathryn Schuler, **Daoxin Li**, & Shengqi Zhong. (In prep). Adapting the head turn preference procedure for the web.
 
