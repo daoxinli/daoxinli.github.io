@@ -17,9 +17,11 @@ slug: /publications
 
 ### Conference Proceedings
 
-* **Daoxin Li** & Kathryn Schuler. (2023). Distributional learning of recursive structures: The role of structural representation. In Paris Gappmayr and Jackson Kellogg (Eds.), *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/47/BUCLD47-40.pdf">PDF</a>
+* **Daoxin Li**. (To appear). Modelling the distributional learning of verb argument structure. In *Proceedings of the 48th annual Boston University Conference on Language Development (BUCLD 48)*. Somerville, MA: Cascadilla Press.
 
-* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2023). Adapting infant looking time paradigms for the web. In Paris Gappmayr and Jackson Kellogg (Eds.), *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)*. Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/47/BUCLD47-41.pdf">PDF</a>
+* **Daoxin Li** & Kathryn Schuler. (2023). Distributional learning of recursive structures: The role of structural representation. In Paris Gappmayr and Jackson Kellogg (Eds.), *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)* (pp. 487-498). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/47/BUCLD47-40.pdf">PDF</a>
+
+* **Daoxin Li**, Shengqi Zhong, & Kathryn Schuler. (2023). Adapting infant looking time paradigms for the web. In Paris Gappmayr and Jackson Kellogg (Eds.), *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)* (pp. 499-504). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/47/BUCLD47-41.pdf">PDF</a>
 
 * **Daoxin Li**. (2023). Passives, impersonals, and Voice in Sakha. In Si Kai Lee, Sarah Asinari & Sabine Lazakovits (Eds.), *Proceedings of the 7th Workshop on Turkic and Languages in Contact with Turkic (Tu+7)*, (pp. 88-103). <a href="https://journals.linguisticsociety.org/proceedings/index.php/tu/article/view/5308">doi: 10.3765/ptu.v7i1.5308</a>
 
