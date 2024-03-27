@@ -8,6 +8,8 @@ slug: /publications
 
 ### Peer-reviewed Articles
 
+* **Daoxin Li**. (Accepted). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
+
 * **Daoxin Li** & Kathryn D. Schuler. (2023). Acquiring recursive structures through distributional learning. *Language Acquisition, 30*(3-4), 323-336. <a href="https://www.tandfonline.com/doi/full/10.1080/10489223.2023.2185522">doi: 10.1080/10489223.2023.2185522</a>
 ***Language Acquisition* 2023 Best Original Research Article by an Untenured Scientist**
 
@@ -36,8 +38,6 @@ slug: /publications
 * **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2020). Acquisition of recursion in child Mandarin. In Megan M. Brown & Alexandra Kohut (Eds.), *Proceedings of the 44th annual Boston University Conference on Language Development (BUCLD 44)* (pp. 294-307). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/44/BUCLD44-24.pdf">PDF</a>
 
 ### Manuscripts
-
-* **Daoxin Li**. (Revisions submitted). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics.*
 
 * **Daoxin Li** & Charles Yang. (To be submitted). Productivity and the distributional learning of recursive structures.
 
