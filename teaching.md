@@ -24,7 +24,7 @@ slug: /teaching
 
 ### Training
 
-* <a href="https://ctl.upenn.edu/programs/grad-students/ctl-teaching-certificate/">Certificate in College and University Teaching</a>, Center for Teaching & Learning, Penn
+* <a href="https://ctl.upenn.edu/programs/grad-students/ctl-teaching-certificate/">Certificate in College and University Teaching</a>, Center for Excellence in Teaching, Learning and Innovation, Penn
 
 
 <br />
