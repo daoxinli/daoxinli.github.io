@@ -19,6 +19,10 @@ slug: /publications
 
 ### Conference Proceedings
 
+* **Daoxin Li** & Kathryn Schuler. (To appear). Children can use distributional cues to acquire recursive structures. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci 2024)*.
+
+* **Daoxin Li**, Christine Soh Yue, & John Trueswell. (To appear). Is it a bat or a thing? Referential contrast in the learning of homophones and superordinate terms. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci 2024)*.
+
 * **Daoxin Li**. (To appear). Modelling the distributional learning of verb argument structure. In *Proceedings of the 48th annual Boston University Conference on Language Development (BUCLD 48)*. Somerville, MA: Cascadilla Press.
 
 * **Daoxin Li** & Kathryn Schuler. (2023). Distributional learning of recursive structures: The role of structural representation. In Paris Gappmayr and Jackson Kellogg (Eds.), *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)* (pp. 487-498). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/47/BUCLD47-40.pdf">PDF</a>
