@@ -38,6 +38,10 @@ slug: /presentations
 
 ### Posters
 
+* **Daoxin Li** & Kathryn Schuler. (2024). *Children can use distributional cues to acquire recursive structures.* Poster at the 46th Annual Conference of the Cognitive Science Society (CogSci 2024), Rotterdam, Netherlands, Jul 24 - 27, 2024
+
+* **Daoxin Li**, Christine Soh Yue, & John Trueswell. (2024). *Is it a bat or a thing? Referential contrast in the learning of homophones and superordinate terms.* Poster at the 46th Annual Conference of the Cognitive Science Society (CogSci 2024), Rotterdam, Netherlands, Jul 24 - 27, 2024
+
 * **Daoxin Li** & John Trueswell. (2024). *One meaning or two? The role of referential contrast in the learning of homophones and superordinate terms.* Poster at the 98th annual meeting of the Linguistic Society of America (LSA 2024), New York NY, Jan 4 – 7, 2024.
 
 * **Daoxin Li**. (2023). *Modelling the distributional learning of verb argument structure.* Poster at the 48th annual Boston University Conference on Language Development (BUCLD 48), Boston University, Boston MA, Nov 2 – 5, 2023. 
