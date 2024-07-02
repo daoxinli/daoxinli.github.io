@@ -19,11 +19,11 @@ slug: /publications
 
 ### Conference Proceedings
 
-* **Daoxin Li** & Kathryn Schuler. (To appear). Children can use distributional cues to acquire recursive structures. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci 2024)*.
-
-* **Daoxin Li**, Christine Soh Yue, & John Trueswell. (To appear). Is it a bat or a thing? Referential contrast in the learning of homophones and superordinate terms. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci 2024)*.
-
 * **Daoxin Li**. (To appear). Modelling the distributional learning of verb argument structure. In *Proceedings of the 48th annual Boston University Conference on Language Development (BUCLD 48)*. Somerville, MA: Cascadilla Press.
+
+* **Daoxin Li** & Kathryn Schuler. (2024). Children can use distributional cues to acquire recursive structures. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci 2024)* (pp. 1925-1932). <a href="https://escholarship.org/content/qt3d52v78v/qt3d52v78v.pdf?t=sfdp8s&v=lg">PDF</a> 
+
+* **Daoxin Li**, Christine Soh Yue, & John Trueswell. (2024). Is it a bat or a thing? Referential contrast in the learning of homophones and superordinate terms. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci 2024)* (pp. 2301-2307). <a href="https://escholarship.org/content/qt3h2521vb/qt3h2521vb.pdf?t=sfdz5q&v=lg">PDF</a> 
 
 * **Daoxin Li** & Kathryn Schuler. (2023). Distributional learning of recursive structures: The role of structural representation. In Paris Gappmayr and Jackson Kellogg (Eds.), *Proceedings of the 47th annual Boston University Conference on Language Development (BUCLD 47)* (pp. 487-498). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/47/BUCLD47-40.pdf">PDF</a>
 
@@ -33,7 +33,7 @@ slug: /publications
 
 * **Daoxin Li**. (2022). Syntactic bootstrapping mental verbs and perception verbs with limited morphosyntactic cues. In Ying Gong & Felix Kpogo (Eds.), *Proceedings of the 46th annual Boston University Conference on Language Development (BUCLD 46)* (pp. 428-441). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/46/BUCLD46-33.pdf">PDF</a>
 
-* **Daoxin Li** & Kathryn Schuler. (2021). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)*. (pp. 1437-1443). <a href="https://escholarship.org/content/qt45221021/qt45221021.pdf?t=qwi33l&v=lg">PDF</a>
+* **Daoxin Li** & Kathryn Schuler. (2021). Distributional learning of recursive structures. In *Proceedings of the 43rd Annual Conference of the Cognitive Science Society (CogSci 2021)* (pp. 1437-1443). <a href="https://escholarship.org/content/qt45221021/qt45221021.pdf?t=qwi33l&v=lg">PDF</a>
 
 * **Daoxin Li**, Lydia Grohe, Petra Schulz, & Charles Yang. (2021). The distributional learning of recursive structures. In Danielle Dionne & Lee-Ann Vidal Covas (Eds.), *Proceedings of the 45th annual Boston University Conference on Language Development (BUCLD 45)* (pp. 471-485). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/45/BUCLD45-36.pdf">PDF</a>
 
