@@ -21,8 +21,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: daoxinli@sas.upenn.edu
-      link: mailto:daoxinli@sas.upenn.edu
+      value: daoxin dot li at northwestern dot edu
+      # link: mailto:daoxinli@sas.upenn.edu
   follow:
     - name: GoogleScholar
       link: https://scholar.google.com/citations?user=4eKbdUEAAAAJ
