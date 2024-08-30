@@ -14,4 +14,4 @@ profile_picture:
   My research focuses on the cognitive and computational mechanisms of language acquisition: How do children discover the grammar of their language? Why do children seem to be better at language learning than adults? What is the relation between language acquisition and other cognitive abilities? I combine theoretical, experimental and computational methods to investigate these questions. I also have secondary research interests in theoretical syntax.
 </p>
 
-**Address**: Department of Linguistics, University of Pennsylvania, 3401-C Walnut Street, Suite 300, C Wing, Philadelphia, PA 19104-6228, USA
+**Address**: Infant and Child Development Center, Swift Hall, 2029 Sheridan Rd, Evanston, IL 60208 USA
