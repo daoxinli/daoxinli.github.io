@@ -45,9 +45,11 @@ Abdullah Ali AlThagafi and Jupitara Ray (Eds.), *Proceedings of the 48th annual 
 
 ### Manuscripts
 
-* **Daoxin Li** & Charles Yang. (To be submitted). Productivity and the distributional learning of recursive structures.
+* **Daoxin Li** & Sandra R. Waxman. (Submitted). Infant word learning.
 
-* Kathryn Schuler, **Daoxin Li**, & Shengqi Zhong. (In prep). Adapting the head turn preference procedure for the web.
+* **Daoxin Li** & Kathryn D. Schuler. (In prep). Learning recursive structures in an artificial language: Distributional cues and structural representation.
+
+* **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
 
 * **Daoxin Li** & John Trueswell. (In prep). One meaning or two? The role of referential contrast in the learning of homophones and superordinate terms.
 
