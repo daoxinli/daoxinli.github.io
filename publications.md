@@ -20,8 +20,9 @@ slug: /publications
 
 ### Conference Proceedings
 
-* **Daoxin Li**. (2024). Modelling the distributional learning of verb argument structure. In Hayat
-Abdullah Ali AlThagafi and Jupitara Ray (Eds.), *Proceedings of the 48th annual Boston University Conference on Language Development (BUCLD 48)* (pp. 313-326). Somerville, MA: Cascadilla Press. <a href="https://www.lingref.com/bucld/48/BUCLD48-24.pdf">PDF</a>
+* **Daoxin Li** & Kathryn D. Schuler. (To appear). Children can use distributional cues to acquire recursive structures. In *Proceedings of the 49th annual Boston University Conference on Language Development (BUCLD 49)*. Somerville, MA: Cascadilla Press.
+
+* **Daoxin Li**. (2024). Modelling the distributional learning of verb argument structure. In Hayat Abdullah Ali AlThagafi and Jupitara Ray (Eds.), *Proceedings of the 48th annual Boston University Conference on Language Development (BUCLD 48)* (pp. 313-326). Somerville, MA: Cascadilla Press. <a href="https://www.lingref.com/bucld/48/BUCLD48-24.pdf">PDF</a>
 
 * **Daoxin Li** & Kathryn Schuler. (2024). Children can use distributional cues to acquire recursive structures. In *Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci 2024)* (pp. 1925-1932). <a href="https://escholarship.org/content/qt3d52v78v/qt3d52v78v.pdf?t=sfdp8s&v=lg">PDF</a> 
 
