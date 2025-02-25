@@ -48,7 +48,7 @@ slug: /publications
 
 * **Daoxin Li** & Sandra R. Waxman. (Submitted). Infant word learning.
 
-* **Daoxin Li** & Kathryn D. Schuler. (In prep). Learning recursive structures in an artificial language: Distributional cues and structural representation.
+* **Daoxin Li** & Kathryn D. Schuler. (Submitted). Distributional learning of recursive structures is constrained by structural representation.
 
 * **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
 
