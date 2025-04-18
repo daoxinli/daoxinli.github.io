@@ -38,7 +38,7 @@ slug: /presentations
 
 ### Posters
 
-* Alison Lobo, **Daoxin Li**, Cecilia Nam & Sandra R. Waxman. (2025). *The effects of naming on infants' representation of objects: Evidence from an occlusion task.* Poster at the Society for Research in Child Development 2025 Biennial Meeting (SRCD 2025), Minneapolis MN, May 1 - 3, 2025.
+* Alison Lobo, **Daoxin Li**, Cecilia Nam & Sandra R. Waxman. (2025). *The effects of naming on infants' representation of objects: Evidence from an occlusion task.* Poster at the 2025 Biennial Meeting of the Society for Research in Child Development (SRCD 2025), Minneapolis MN, May 1 - 3, 2025.
 
 * **Daoxin Li** & Kathryn Schuler. (2024). *Children can use distributional cues to acquire recursive structures.* Poster at the 49th annual Boston University Conference on Language Development (BUCLD 49), Boston University, Boston MA, Nov 7 – 10, 2024.
 
