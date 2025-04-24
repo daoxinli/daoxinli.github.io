@@ -56,5 +56,7 @@ slug: /publications
 
 * **Daoxin Li** & John Trueswell. (In prep). One meaning or two? The role of referential contrast in the learning of homophones and superordinate terms.
 
+* Kathryn D. Schuler, **Daoxin Li**, & Shengqi Zhong. (In prep). Adapting the head turn preference procedure for the web.
+
 <br />
 <br />
