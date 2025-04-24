@@ -48,7 +48,7 @@ slug: /publications
 
 * **Daoxin Li** & Sandra R. Waxman. (Submitted). Infant word learning. *International encyclopedia of language and linguistics (3rd edition)*.
 
-* **Daoxin Li** & Kathryn D. Schuler. (Submitted). Children's distributional learning of recursive structures: Capacities and constraints. *Journal of Memory and Language*. <a href="https://doi.org/10.31234/osf.io/csdfg_v1">Preprint</a>
+* **Daoxin Li** & Kathryn D. Schuler. (Under review). Children's distributional learning of recursive structures: Capacities and constraints. *Journal of Memory and Language*. <a href="https://doi.org/10.31234/osf.io/csdfg_v1">Preprint</a>
   
 * **Daoxin Li** & Kathryn D. Schuler. (Under review). Distributional learning of recursive structures is constrained by structural representation. *Cognition*. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
 
