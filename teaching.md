@@ -6,19 +6,21 @@ slug: /teaching
 
 ## Teaching
 
-### Teaching experiences
+### At UNC-Chapel Hill
 
-* **Fall 2023**: Teaching Assistant for *LING2700 Language Acquisition*, Penn (Instructor: Aletheia Cui)
+* **Fall 2025**: LING 401 Introduction to Computational Linguistics
 
-* **Spring 2023**: Recitation Instructor for *LING0001 Introduction to Linguistics*, Penn (Instructor: Lacey Wade)
+### At Penn
 
-* **Fall 2021**: Teaching Assistant for *LING300 Tutorial in Linguistics*, Penn (Instructor: Julie Anne Legate)
+* **Fall 2023**: LING2700 Language Acquisition (Teaching Assistant)
 
-* **Spring 2021**: Recitation Instructor for *LING001 Introduction to Linguistics*, Penn (Instructor: Martin Salzmann)
+* **Spring 2023**: LING0001 Introduction to Linguistics (Recitation Instructor)
 
-* **Fall 2020**: Teaching Assistant for *LING270 Language Acquisition*, Penn (Instructor: Charles Yang)
+* **Fall 2021**: LING300 Tutorial in Linguistics (Teaching Assistant)
 
-* I have also taught language acquisition and formal methods (e.g., computational modeling, quantitative statistics, experimental design) as a guest lecturer.
+* **Spring 2021**: LING001 Introduction to Linguistics (Recitation Instructor)
+
+* **Fall 2020**: LING270 Language Acquisition (Teaching Assistant)
 
 ### Training
 
