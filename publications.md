@@ -6,6 +6,10 @@ slug: /publications
 
 ## Publications
 
+### Book Chapters
+
+* **Daoxin Li** & Sandra R. Waxman. (To appear). Infant word learning. In Hilary Nesi & Petar Milin (Eds.), *International encyclopedia of language and linguistics (3rd edition)*. Elsevier.
+
 ### Peer-reviewed Articles
 
 * **Daoxin Li**. (2024). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics, 33,* 333-366. <a href="https://link.springer.com/article/10.1007/s10831-024-09280-2">doi: 10.1007/s10831-024-09280-2</a> <a href="https://rdcu.be/dRvQa
@@ -44,8 +48,6 @@ slug: /publications
 * **Daoxin Li**, Xiaolu Yang, Thomas Roeper, Michael Wilson, Rong Yin, Jaieun Kim, Emma Merritt, Diego Lopez, & Austin Tero. (2020). Acquisition of recursion in child Mandarin. In Megan M. Brown & Alexandra Kohut (Eds.), *Proceedings of the 44th annual Boston University Conference on Language Development (BUCLD 44)* (pp. 294-307). Somerville, MA: Cascadilla Press. <a href="http://www.lingref.com/bucld/44/BUCLD44-24.pdf">PDF</a>
 
 ### Manuscripts
-
-* **Daoxin Li** & Sandra R. Waxman. (Submitted). Infant word learning. *International encyclopedia of language and linguistics (3rd edition)*.
 
 * **Daoxin Li** & Kathryn D. Schuler. (Under review). Children's distributional learning of recursive structures: Capacities and constraints. *Journal of Memory and Language*. <a href="https://doi.org/10.31234/osf.io/csdfg_v1">Preprint</a>
   
