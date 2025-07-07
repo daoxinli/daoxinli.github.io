@@ -11,7 +11,7 @@ Hello! My name is Daoxin Li (李道昕 [lì tɑ̂ʊ̯ ɕín]). I am an Assistant
 </p>
 
 <p style='text-align: justify;'>
-My research focuses on the cognitive and computational mechanisms of language acquisition. Using a combination of theoretical, computational, and experimental approaches. I develop language acquisition models that are both quantitatively rigorous and empirically plausible. I also have secondary research interests in theoretical syntax.
+My research focuses on the cognitive and computational mechanisms of language acquisition. Using a combination of theoretical, computational, and experimental approaches, I develop language acquisition models that are both quantitatively explicit and empirically grounded. I also have secondary research interests in theoretical syntax.
 </p>
 
 <p style='text-align: justify;'>
