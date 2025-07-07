@@ -18,4 +18,6 @@ My research focuses on the cognitive and computational mechanisms of language ac
 Before joining UNC, I received my Ph.D. in <a href="https://www.ling.upenn.edu">Linguistics</a> from the University of Pennsylvania and was a Postdoctoral Fellow at Northwestern University's <a href="https://childdevelopment.northwestern.edu/">Infant and Child Development Center</a>.
 </p>
 
+<p style='text-align: justify;'>
 **Address**: Department of Linguistics, 108 Smith Building, CB#3155, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599-3155
+</p>
