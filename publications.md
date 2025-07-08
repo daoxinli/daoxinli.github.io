@@ -51,9 +51,9 @@ slug: /publications
 
 ### Manuscripts
 
-* **Daoxin Li** & Kathryn D. Schuler. (Under review). Children's distributional learning of recursive structures: Capacities and constraints. *Journal of Memory and Language*. <a href="https://doi.org/10.31234/osf.io/csdfg_v1">Preprint</a>
+* **Daoxin Li** & Kathryn D. Schuler. (In revision). Children's distributional learning of recursive structures: Capacities and constraints. <a href="https://doi.org/10.31234/osf.io/csdfg_v1">Preprint</a>
   
-* **Daoxin Li** & Kathryn D. Schuler. (Under review). Distributional learning of recursive structures is constrained by structural representation. *Cognition*. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
+* **Daoxin Li** & Kathryn D. Schuler. (In revision). Distributional learning of recursive structures is constrained by structural representation. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
 
 * **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
 
