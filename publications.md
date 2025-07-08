@@ -10,7 +10,7 @@ slug: /publications
 
 * **Daoxin Li** & Sandra R. Waxman. (To appear). Infant word learning. In Hilary Nesi & Petar Milin (Eds.), *International encyclopedia of language and linguistics (3rd edition)*. Elsevier.
 
-### Journal Articles
+### Peer-reviewed Journal Articles
 
 * **Daoxin Li**. (2024). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics, 33,* 333-366. <a href="https://link.springer.com/article/10.1007/s10831-024-09280-2">doi: 10.1007/s10831-024-09280-2</a> <a href="https://rdcu.be/dRvQa
 ">PDF</a>
