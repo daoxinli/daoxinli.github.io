@@ -7,6 +7,7 @@ slug: /teaching
 ## Teaching
 
 ### At UNC-Chapel Hill
+(as Instructor unless otherwise noted)
 
 * **Fall 2025**: LING 401 Introduction to Computational Linguistics
 
