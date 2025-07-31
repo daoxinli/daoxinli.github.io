@@ -38,6 +38,8 @@ slug: /presentations
 
 ### Posters
 
+* **Daoxin Li**, Alison Lobo, & Sandra R. Waxman. (2025). *Infants' individual-level representations, established via naming, support reasoning in dynamic events.* Poster at the 50th annual Boston University Conference on Language Development (BUCLD 50), Boston University, Boston MA, Nov 6 – 9, 2025.
+
 * Alison Lobo, **Daoxin Li**, Cecilia Nam, Alexander LaTourrette, & Sandra R. Waxman. (2025). *Infants’ mental representations of objects persist in an occlusion task.* Poster at the 2025 Biennial Meeting of the Society for Research in Child Development (SRCD 2025), Minneapolis MN, May 1 - 3, 2025.
 
 * **Daoxin Li** & Kathryn Schuler. (2024). *Children can use distributional cues to acquire recursive structures.* Poster at the 49th annual Boston University Conference on Language Development (BUCLD 49), Boston University, Boston MA, Nov 7 – 10, 2024.
