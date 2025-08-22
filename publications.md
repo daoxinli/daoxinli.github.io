@@ -8,12 +8,11 @@ slug: /publications
 
 ### Book Chapters
 
-* **Daoxin Li** & Sandra R. Waxman. (To appear). Infant word learning. In Hilary Nesi & Petar Milin (Eds.), *International encyclopedia of language and linguistics (3rd edition)*. Elsevier.
+* **Daoxin Li** & Sandra R. Waxman. (Published online ahead of print). Infant word learning. To appear in Hilary Nesi & Petar Milin (Eds.), *International encyclopedia of language and linguistics (3rd edition)*. Elsevier. <a href="https://doi.org/10.1016/B978-0-323-95504-1.00857-7">doi: 10.1016/B978-0-323-95504-1.00857-7</a>
 
 ### Peer-reviewed Journal Articles
 
-* **Daoxin Li**. (2024). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics, 33,* 333-366. <a href="https://link.springer.com/article/10.1007/s10831-024-09280-2">doi: 10.1007/s10831-024-09280-2</a> <a href="https://rdcu.be/dRvQa
-">PDF</a>
+* **Daoxin Li**. (2024). Controlling overt subjects in Mandarin. *Journal of East Asian Linguistics, 33,* 333-366. <a href="https://link.springer.com/article/10.1007/s10831-024-09280-2">doi: 10.1007/s10831-024-09280-2</a> <a href="https://rdcu.be/dRvQa">PDF</a>
 
 * **Daoxin Li** & Kathryn D. Schuler. (2023). Acquiring recursive structures through distributional learning. *Language Acquisition, 30*(3-4), 323-336. <a href="https://www.tandfonline.com/doi/full/10.1080/10489223.2023.2185522">doi: 10.1080/10489223.2023.2185522</a> **Awarded *Language Acquisition* 2023 Best Paper by an Untenured Scientist**
 
