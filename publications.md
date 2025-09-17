@@ -30,7 +30,7 @@ slug: /publications
 
 ### Conference Articles with Peer-reviewed Abstracts
 
-* **Daoxin Li** & Kathryn D. Schuler. (To appear). Children can use distributional cues to acquire recursive structures. In *Proceedings of the 49th annual Boston University Conference on Language Development (BUCLD 49)*. Somerville, MA: Cascadilla Press.
+* **Daoxin Li** & Kathryn D. Schuler. (2025). Children can use distributional cues to acquire recursive structures. In Aditya Yedetore, Rebecca Dufie Bonney, and Yuanyuan Zhang (Eds.), *Proceedings of the 49th annual Boston University Conference on Language Development (BUCLD 49)* (pp. 435-448). Somerville, MA: Cascadilla Press. <a href="https://www.lingref.com/bucld/49/BUCLD49-33.pdf">PDF</a>
 
 * **Daoxin Li**. (2024). Modelling the distributional learning of verb argument structure. In Hayat Abdullah Ali AlThagafi and Jupitara Ray (Eds.), *Proceedings of the 48th annual Boston University Conference on Language Development (BUCLD 48)* (pp. 313-326). Somerville, MA: Cascadilla Press. <a href="https://www.lingref.com/bucld/48/BUCLD48-24.pdf">PDF</a>
 
