@@ -13,15 +13,15 @@ slug: /teaching
 
 ### At Penn
 
-* **Fall 2023**: LING2700 Language Acquisition (Teaching Assistant)
+* **Fall 2023**: LING 2700 Language Acquisition (Teaching Assistant)
 
-* **Spring 2023**: LING0001 Introduction to Linguistics (Recitation Instructor)
+* **Spring 2023**: LING 0001 Introduction to Linguistics (Recitation Instructor)
 
-* **Fall 2021**: LING300 Tutorial in Linguistics (Teaching Assistant)
+* **Fall 2021**: LING 300 Tutorial in Linguistics (Teaching Assistant)
 
-* **Spring 2021**: LING001 Introduction to Linguistics (Recitation Instructor)
+* **Spring 2021**: LING 001 Introduction to Linguistics (Recitation Instructor)
 
-* **Fall 2020**: LING270 Language Acquisition (Teaching Assistant)
+* **Fall 2020**: LING 270 Language Acquisition (Teaching Assistant)
 
 ### Training
 
