@@ -8,7 +8,7 @@ slug: /publications
 
 ### Book Chapters
 
-* **Daoxin Li** & Sandra R. Waxman. (2025). Infant word learning. To appear in Hilary Nesi & Petar Milin (Eds.), *International encyclopedia of language and linguistics (3rd edition)*. Elsevier. (Advance online publication.) <a href="https://doi.org/10.1016/B978-0-323-95504-1.00857-7">doi: 10.1016/B978-0-323-95504-1.00857-7</a>
+* **Daoxin Li** & Sandra R. Waxman. (Accepted). Infant word learning. To appear in Hilary Nesi & Petar Milin (Eds.), *International encyclopedia of language and linguistics (3rd edition)*. Elsevier. (Advance online publication.) <a href="https://doi.org/10.1016/B978-0-323-95504-1.00857-7">doi: 10.1016/B978-0-323-95504-1.00857-7</a>
 
 ### Peer-reviewed Journal Articles
 
