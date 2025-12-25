@@ -8,6 +8,10 @@ slug: /teaching
 
 ### At UNC-Chapel Hill
 
+* **Spring 2026**: LING 89 First-Year Seminar - Language and Thought
+
+* **Spring 2026**: LING 490 Models of Language Acquisition
+
 * **Fall 2025**: LING 401 Introduction to Computational Linguistics
 
 ### At Penn
