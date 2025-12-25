@@ -8,23 +8,19 @@ slug: /teaching
 
 ### At UNC-Chapel Hill
 
-* **Spring 2026**: LING 89 First-Year Seminar - Language and Thought
+* LING 89: First-Year Seminar - Language and Thought, Spring 2026
 
-* **Spring 2026**: LING 490 Models of Language Acquisition
+* LING 490: Models of Language Acquisition, Spring 2026
 
-* **Fall 2025**: LING 401 Introduction to Computational Linguistics
+* LING 401: Introduction to Computational Linguistics, Fall 2025
 
-### At Penn
+### At Penn (as Teaching Assistant/Recitation Instructor)
 
-* **Fall 2023**: LING 2700 Language Acquisition (Teaching Assistant)
+* LING 300: Tutorial in Linguistics, Fall 2021
 
-* **Spring 2023**: LING 0001 Introduction to Linguistics (Recitation Instructor)
+* LING 001/0001: Introduction to Linguistics, Spring 2021, Spring 2023
 
-* **Fall 2021**: LING 300 Tutorial in Linguistics (Teaching Assistant)
-
-* **Spring 2021**: LING 001 Introduction to Linguistics (Recitation Instructor)
-
-* **Fall 2020**: LING 270 Language Acquisition (Teaching Assistant)
+* LING 270/2700: Language Acquisition, Fall 2020, Fall 2023
 
 ### Training
 
