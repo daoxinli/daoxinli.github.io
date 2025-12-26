@@ -10,17 +10,17 @@ slug: /teaching
 
 * LING 89: First-Year Seminar - Language and Thought, Spring 2026
 
-* LING 490: Models of Language Acquisition, Spring 2026
-
 * LING 401: Introduction to Computational Linguistics, Fall 2025
 
-### At Penn (as Teaching Assistant/Recitation Instructor)
+* LING 490: Models of Language Acquisition, Spring 2026
 
-* LING 300: Tutorial in Linguistics, Fall 2021
+### At Penn (as Teaching Assistant/Recitation Instructor)
 
 * LING 001/0001: Introduction to Linguistics, Spring 2021, Spring 2023
 
 * LING 270/2700: Language Acquisition, Fall 2020, Fall 2023
+  
+* LING 300: Tutorial in Linguistics, Fall 2021
 
 ### Training
 
