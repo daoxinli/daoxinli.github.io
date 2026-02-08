@@ -58,8 +58,6 @@ slug: /publications
 
 * **Daoxin Li** & John Trueswell. (In prep). One meaning or two? The role of referential contrast in the learning of homophones and superordinate terms.
 
-* Kathryn D. Schuler, **Daoxin Li**, & Shengqi Zhong. (In prep). Adapting the head turn preference procedure for the web.
-
 ### Current and Past Collaborators
 
 I have been fortunate to work with a wonderful group of researchers: <a href="https://www.linguistik-in-frankfurt.de/personal/lydia-grohe/">Lydia Grohe</a>, <a href="https://www.ling.upenn.edu/~jlegate/">Julie Anne Legate</a>, <a href="https://www.linkedin.com/in/alison-lobo-6b41b7167/">Alison Lobo</a>, <a href="https://www.linkedin.com/in/qing-lyu-255514209/">Veronica Lyu</a>, <a href="https://people.umass.edu/roeper/">Tom Roeper</a>, <a href="https://kathrynschuler.com/">Katie Schuler</a>, <a href="https://www.uni-frankfurt.de/44202082/Deutsch_als_Zweitsprache___Theorie_und_Didaktik_des_Zweitspracherwerbs">Petra Schulz</a>, <a href="https://web.sas.upenn.edu/trueswell-lab/trueswell/">John Trueswell</a>, <a href="https://psychology.northwestern.edu/people/faculty/core/profiles/sandra-waxman.html">Sandra Waxman</a>, <a href="https://www.ling.upenn.edu/~ycharles/">Charles Yang</a>, <a href="https://www.dfll.tsinghua.edu.cn/dfllen/info/1060/1119.htm">Xiaolu Yang</a>, <a href="https://www.dfll.tsinghua.edu.cn/dfllen/info/1078/1292.htm">Li Yin</a>, <a href="https://csohyue.github.io/">Christine Soh Yue</a>, <a href="https://www.linkedin.com/in/shengqi-zhong-46049a165/">Iris Zhong</a>
