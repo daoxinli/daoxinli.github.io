@@ -7,7 +7,7 @@ profile_picture:
 
 
 <p style='text-align: justify;'>
-Hello! My name is Daoxin Li (李道昕 [lì tɑ̂ʊ̯ ɕín]). I am an Assistant Professor in the <a href="https://linguistics.unc.edu/">Department of Linguistics</a> at the <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>, where I direct the <a href="https://tarheels.live/llclab/">Language Learning & Computation Lab</a>. 
+Hello! My name is Daoxin Li (李道昕 [lì tɑ̂ʊ̯ ɕín]). I am an Assistant Professor in the <a href="https://linguistics.unc.edu/">Department of Linguistics</a> at the <a href="https://www.unc.edu/">University of North Carolina at Chapel Hill</a>, where I direct the <a href="https://llclab.unc.edu/">Language Learning & Computation Lab</a>. 
 </p>
 
 <p style='text-align: justify;'>
