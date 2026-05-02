@@ -10,7 +10,7 @@ slug: /teaching
 
 * LING 89: First-Year Seminar - Language and Thought, Spring 2026
 
-* LING 401: Introduction to Computational Linguistics, Fall 2025
+* LING 401: Language and Computers, Fall 2025
 
 * LING 490: Models of Language Acquisition, Spring 2026
 
