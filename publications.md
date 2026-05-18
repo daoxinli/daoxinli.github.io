@@ -50,7 +50,9 @@ slug: /publications
 
 ### Manuscripts
 
-* **Daoxin Li** & Kathryn D. Schuler. (Revise & resubmit). Distributional learning of recursive structures: Linear cues and structural representation. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
+* **Daoxin Li**, Alexander S. LaTourrette, Cecilia Nam, & Sandra R. Waxman. (Submitted). Infants' object representations, established via object naming, guide their reasoning in dynamic events.
+  
+* **Daoxin Li** & Kathryn D. Schuler. (Revised & resubmitted). Distributional learning of recursive structures: Linear cues and structural representation. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
 
 * **Daoxin Li** & Kathryn D. Schuler. (In revision). Children's distributional learning of recursive structures: Capacities and constraints. <a href="https://doi.org/10.31234/osf.io/csdfg_v1">Preprint</a>
 
