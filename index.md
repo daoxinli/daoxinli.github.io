@@ -15,7 +15,7 @@ My research focuses on the mechanisms of language acquisition. Using a combinati
 </p>
 
 <p style='text-align: justify;'>
-Before joining UNC, I received my Ph.D. in <a href="https://www.ling.upenn.edu">Linguistics</a> from the University of Pennsylvania and then was a Postdoctoral Fellow at Northwestern University's <a href="https://childdevelopment.northwestern.edu/">Infant and Child Development Center</a>.
+Before joining UNC, I received my Ph.D. in <a href="https://www.ling.upenn.edu">Linguistics</a> from the University of Pennsylvania and then was a Postdoctoral Fellow at Northwestern University's <a href="https://childdevelopment.northwestern.edu/">Infant & Child Development Center</a>.
 </p>
 
 **Address**: Department of Linguistics, 108 Smith Building, CB#3155, University of North Carolina at Chapel Hill, Chapel Hill, NC 27599-3155
