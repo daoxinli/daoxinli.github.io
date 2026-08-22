@@ -12,7 +12,11 @@ slug: /teaching
 
 * LING 401: Language and Computers, Fall 2025
 
+* LING 460: Textual Analysis with R, Fall 2026
+
 * LING 490: Models of Language Acquisition, Spring 2026
+
+* LING 528: Language Acquisition, Fall 2026
 
 ### At Penn (as Teaching Assistant/Recitation Instructor)
 
