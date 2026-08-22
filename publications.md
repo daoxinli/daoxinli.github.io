@@ -52,13 +52,17 @@ slug: /publications
 
 * **Daoxin Li**, Alexander S. LaTourrette, Cecilia Nam, & Sandra R. Waxman. (Submitted). Infants' object representations, established via object naming, guide their reasoning in dynamic events.
   
-* **Daoxin Li** & Kathryn D. Schuler. (Revised & resubmitted). Distributional learning of recursive structures: Linear cues and structural representation. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
+* **Daoxin Li** & Kathryn D. Schuler. (In revision). Distributional learning of recursive structures: Linear cues and structural representation. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
 
 * **Daoxin Li** & Kathryn D. Schuler. (In revision). Children's distributional learning of recursive structures: Capacities and constraints. <a href="https://doi.org/10.31234/osf.io/csdfg_v1">Preprint</a>
 
 * **Daoxin Li** & Charles Yang. (In prep). Productivity and the distributional learning of recursive structures.
 
-* **Daoxin Li** & John Trueswell. (In prep). One meaning or two? The role of referential contrast in the learning of homophones and superordinate terms.
+* **Daoxin Li** & John Trueswell. (In prep). What wasn’t named matters: Implicit referential contrast guides learners toward homophonous or superordinate word meanings.
+
+  **Daoxin Li**. (In prep). The learnability of verb argument structure.
+
+* **Daoxin Li**. (In prep). Distributional learning of linguistic generalizations from inconsistent and changing input.
 
 ### Current and Past Collaborators
 
