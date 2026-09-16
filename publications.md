@@ -52,7 +52,7 @@ slug: /publications
 
 * **Daoxin Li**. (Submitted). Distributional learning of linguistic generalizations from inconsistent and changing input.
 
-* **Daoxin Li**, Alexander S. LaTourrette, Cecilia Nam, & Sandra R. Waxman. (Submitted). Infants' object representations, established via object naming, guide their reasoning in dynamic events.
+* **Daoxin Li**, Alexander S. LaTourrette, Cecilia Nam, & Sandra R. Waxman. (Submitted). Infants' object representations, established via naming, guide their reasoning in dynamic occlusion events.
   
 * **Daoxin Li** & Kathryn D. Schuler. (In revision). Distributional learning of recursive structures: Linear cues and structural representation. <a href="https://doi.org/10.31234/osf.io/8m2f4_v1">Preprint</a>
 
