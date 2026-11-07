@@ -8,7 +8,7 @@ slug: /presentations
 
 ### Talks
 
-* **Daoxin Li**. (2026). *From exposure to productivity: Investigating the mechanisms of syntactic rule learning​*. Symposium talk at the 51st annual Boston University Conference on Language Development (BUCLD 51), Boston University, Boston MA, Nov 5 – 8, 2026.
+* **Daoxin Li**. (2026). *From exposure to productivity: Investigating the mechanisms of syntactic rule learning​*. Symposium talk at the 51st annual Boston University Conference on Language Development (BUCLD 51), Boston University, Boston MA, Nov 5 – 8, 2026. [Slides](assets/BUCLD51_symposium.pdf)
 
 * **Daoxin Li**. (2024). *Modeling the distributional learning of verb argument structure*. Talk at the 98th annual meeting of the Linguistic Society of America (LSA 2024), New York, Jan 4 – 7, 2024.
 
